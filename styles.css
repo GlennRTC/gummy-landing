@@ -142,7 +142,7 @@ body {
     padding: 4rem 0 6rem;
     position: relative;
     overflow: hidden;
-    max-width: 100vw;
+    /*max-width: 100vw;*/
 }
 
 .hero::before {
